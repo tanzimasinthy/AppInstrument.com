@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5809e138-0908-418b-8e46-ef954785c504" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_TD_Senz_tds.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3232" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_TD_Senz_tds_2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3253" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_Temp_AS_530.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2949" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_Temp_AS_842A.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3081" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_Temp_AS_862A.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_BC3020.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2605" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team-member.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4144" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Product_Sub_Weight_EK6201.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="917">
+              <caret line="230" column="72" selection-start-line="230" selection-start-column="72" selection-end-line="230" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/All_Product.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="259" column="83" selection-start-line="259" selection-start-column="83" selection-end-line="259" selection-end-column="83" />
+              <folding>
+                <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/All_Brand.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="289" column="83" selection-start-line="289" selection-start-column="83" selection-end-line="289" selection-end-column="83" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>login</find>
+      <find>title</find>
+      <find>801.png</find>
+      <find>ar-836</find>
+      <find>fac</find>
+      <find>Professional.</find>
+      <find>AS842A</find>
+      <find>con30.</find>
+      <find>face</find>
+      <find>log</find>
+      <find>bp</find>
+      <find>Con30</find>
+      <find>do30</find>
+      <find>servi</find>
+      <find>service</find>
+      <find>33/</find>
+      <find>Do3</find>
+      <find>weighin</find>
+      <find>ENVIRONMENT</find>
+      <find>Weighing</find>
+      <find>Anemometer</find>
+      <find>enviro</find>
+      <find>favfa</find>
+      <find>favfav</find>
+      <find>_96</find>
+      <find>fav</find>
+      <find>ma</find>
+      <find>map</find>
+      <find>weigh</find>
+      <find>Moisture Meter</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR847.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR925.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR926.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR930.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR971.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS63A.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS63B.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS63D.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS530.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS803.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS817.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS824.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS837.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS842A.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS847.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS860.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS862A.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS981.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS8902.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_TD_HC3010.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_TD_PCT_407.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_TD_Senz_tds.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_TD_Senz_tds_2.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Temp_AS_530.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Temp_AS_842A.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Temp_AS_862A.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_BC3020.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_BP3001.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Buffer.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Electronic.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_HC3010.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_HD3030.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_HP3040.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_msi.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_PH.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_PH_duo.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_PH_pro.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_PH_redox.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_tds.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_tds_2.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Senz_uSie.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_Walk.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Weight_EK600H.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Weight_EK6201.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Clean_Instruments_PH500.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Enviroment_AR_816.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Enviroment_AS_847.html" />
+        <option value="$PROJECT_DIR$/Product_Turbidity_Meter.html" />
+        <option value="$PROJECT_DIR$/Product_Sub_Trans_TI.html" />
+        <option value="$PROJECT_DIR$/All_Brand.html" />
+        <option value="$PROJECT_DIR$/All_Product.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557556579701" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Product_Sub_Electrode_AR_814.html">
+    <configuration name="Product_Sub_Electrode_AR_814.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/Product_Sub_Electrode_AR_814.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$KOTLIN_BUNDLED$" />
+      <module name="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Product_Sub_Electrode_AR_814.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5809e138-0908-418b-8e46-ef954785c504" name="Default Changelist" comment="" />
+      <created>1547873216687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547873216687</updated>
+      <workItem from="1547873218376" duration="15576000" />
+      <workItem from="1547913256201" duration="3535000" />
+      <workItem from="1547918525275" duration="2700000" />
+      <workItem from="1547962225483" duration="17000" />
+      <workItem from="1548739546990" duration="4251000" />
+      <workItem from="1548766167374" duration="5000" />
+      <workItem from="1550556115242" duration="3032000" />
+      <workItem from="1550570013850" duration="3502000" />
+      <workItem from="1550627471346" duration="5426000" />
+      <workItem from="1550675716862" duration="1425000" />
+      <workItem from="1550679882517" duration="4351000" />
+      <workItem from="1550728562005" duration="6000" />
+      <workItem from="1550847662470" duration="10246000" />
+      <workItem from="1551799824668" duration="1115000" />
+      <workItem from="1552032020308" duration="247000" />
+      <workItem from="1552294439053" duration="48000" />
+      <workItem from="1553490937431" duration="74000" />
+      <workItem from="1554445547379" duration="125000" />
+      <workItem from="1554446537665" duration="304000" />
+      <workItem from="1554454451128" duration="117000" />
+      <workItem from="1554528781942" duration="40000" />
+      <workItem from="1554624031264" duration="310000" />
+      <workItem from="1555685099135" duration="6434000" />
+      <workItem from="1556639411300" duration="3521000" />
+      <workItem from="1556645707583" duration="1105000" />
+      <workItem from="1556966029064" duration="584000" />
+      <workItem from="1556992211931" duration="3000000" />
+      <workItem from="1557056267430" duration="169000" />
+      <workItem from="1557117282399" duration="4986000" />
+      <workItem from="1557124837621" duration="3355000" />
+      <workItem from="1557133829122" duration="262000" />
+      <workItem from="1557382981003" duration="7856000" />
+      <workItem from="1557396833717" duration="453000" />
+      <workItem from="1557420042862" duration="494000" />
+      <workItem from="1557470139549" duration="6998000" />
+      <workItem from="1557495806691" duration="7640000" />
+      <workItem from="1557553932605" duration="2598000" />
+      <workItem from="1557556771043" duration="3122000" />
+      <workItem from="1557561598104" duration="6626000" />
+      <workItem from="1557574880492" duration="8790000" />
+      <workItem from="1557673495050" duration="6526000" />
+      <workItem from="1557726274776" duration="12493000" />
+      <workItem from="1558345857944" duration="1156000" />
+      <workItem from="1558532543958" duration="633000" />
+      <workItem from="1558628007278" duration="3160000" />
+      <workItem from="1558669813141" duration="409000" />
+      <workItem from="1558703097154" duration="356000" />
+      <workItem from="1558773581824" duration="1341000" />
+      <workItem from="1558790652636" duration="1129000" />
+      <workItem from="1558852163985" duration="12787000" />
+      <workItem from="1559111532953" duration="10734000" />
+      <workItem from="1559146474863" duration="3715000" />
+      <workItem from="1559228643344" duration="55000" />
+      <workItem from="1559228728175" duration="11846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190785000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3204578" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39900866" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_Senz_tds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="230" column="64" selection-start-line="230" selection-start-column="64" selection-end-line="230" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_Senz_tds_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="230" column="64" selection-start-line="230" selection-start-column="64" selection-end-line="230" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_Senz_uSie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="230" column="64" selection-start-line="230" selection-start-column="64" selection-end-line="230" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_Walk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="230" column="64" selection-start-line="230" selection-start-column="64" selection-end-line="230" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Weight_EK600H.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="230" column="63" selection-start-line="230" selection-start-column="63" selection-end-line="230" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Clean_Instruments_CON30.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_BP_3001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2789" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Clean_Instruments_DO30.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3060" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Clean_Instruments_DO500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2878" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Clean_Instruments_PH30.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2824" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Clean_Instruments_PH500.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="220" column="65" selection-start-line="220" selection-start-column="65" selection-end-line="220" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Digital_Refractometer_HI_96801.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Digital_Refractometer_HI_96821.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2993" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Digital_Refractometer_HI_96822.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2082" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Do_Meter_HD3030.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2919" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Electrode_AR_814.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3084" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Electrode_AR_824.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="238" column="33" lean-forward="true" selection-start-line="238" selection-start-column="33" selection-end-line="238" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Electrode_AS_804.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3192" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Electrode_AS_824.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="237" column="41" lean-forward="true" selection-start-line="237" selection-start-column="41" selection-end-line="237" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AM_801.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3088" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AM_821.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3045" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AM_831.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3004" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AM_841.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2944" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AR_816.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="230" column="65" lean-forward="true" selection-start-line="230" selection-start-column="65" selection-end-line="230" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AR_826.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="230" column="63" selection-start-line="230" selection-start-column="63" selection-end-line="230" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AR_827.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AR_836.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="216" column="65" selection-start-line="216" selection-start-column="65" selection-end-line="216" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AR_837.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2893" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AR_847.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2965" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AS_817.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3065" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AS_837.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3091" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Enviroment_AS_847.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Moisture_Meter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="26" lean-forward="true" selection-end-line="321" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Turbidity_Meter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="159" column="56" selection-start-line="159" selection-start-column="56" selection-end-line="159" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_TI.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="230" column="72" selection-start-line="230" selection-start-column="72" selection-end-line="230" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_pH_TI9000.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2957" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR814.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2184" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Smart_Sensor_AR971.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3030" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Smart_Sensor_AS824.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2867" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_TD_HC3010.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="228" column="64" selection-start-line="228" selection-start-column="64" selection-end-line="228" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_TD_PCT_407.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_TD_Senz_tds.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3232" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_TD_Senz_tds_2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3253" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Temp_AS_530.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2949" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Temp_AS_842A.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3081" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Temp_AS_862A.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Trans_BC3020.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2605" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team-member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4144" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Product_Sub_Weight_EK6201.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="917">
+          <caret line="230" column="72" selection-start-line="230" selection-start-column="72" selection-end-line="230" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All_Brand.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="289" column="83" selection-start-line="289" selection-start-column="83" selection-end-line="289" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/All_Product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="259" column="83" selection-start-line="259" selection-start-column="83" selection-end-line="259" selection-end-column="83" />
+          <folding>
+            <element signature="n#style#0;n#textarea#0;n#div#0;n#div#2;n#div#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jquery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>site</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
